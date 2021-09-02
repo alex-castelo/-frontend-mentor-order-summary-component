@@ -16,3 +16,22 @@ p {
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
+
+.order {
+  border-radius: 16px;
+  margin: 0 auto;
+  max-width: 343px;
+}
+
+.order__hero {
+  height: 170px;
+  border-radius: 14px 14px 0 0;
+  background-clip: content-box;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url('./images/illustration-hero.svg');
+}
+
+.order__info {
+  padding: 1rem;
+}
