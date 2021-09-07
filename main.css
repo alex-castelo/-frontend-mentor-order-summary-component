@@ -13,6 +13,7 @@ p {
 }
 
 button {
+  all: unset;
   border: none;
   background-color: transparent;
   font-weight: 700;
